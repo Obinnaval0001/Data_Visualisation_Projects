@@ -17,7 +17,7 @@ The data for this project is sourced from the Maven analytics data playground:
 
 ## Findings and Insights
 
-![Capture](https://github.com/user-attachments/assets/c6080937-d061-491d-bdc4-fca5dd9a72b2)
+![Capture](https://github.com/Obinnaval0001/Data_Visualisation_Projects/blob/main/Maven-Toys-Sales-Report-Using-PowerBI/Tory%20Sales%20Dashboard.pdf)
 
 
 
